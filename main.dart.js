@@ -56035,8 +56035,8 @@ return A.aa4(new A.oX(r,new A.HK(s,s,1/0,56),s),A.xE(A.a5Q("Indianigma",A.aoM().
 A.At.prototype={
 K(a){return new A.CF(new A.SZ(),null)}}
 A.SZ.prototype={
-$3(a,b,c){var s=null,r="/splashScreen",q=t.z
-return new A.kE(r,A.aay(B.X,!0),A.a([A.a59(s,s,s,B.j1,B.j2,B.a6,s,!1,s,!0,s,r,!0,new A.SX(),s,s,s,!0,!0,s,s,s,s,q),A.a59(s,s,s,B.j1,B.j2,B.a6,s,!1,s,!0,s,"/homeScreen",!0,new A.SY(),s,s,s,!0,!0,s,s,s,s,q)],t.Ey),s)},
+$3(a,b,c){var s=null,r="/homeScreen",q=t.z
+return new A.kE(r,A.aay(B.X,!0),A.a([A.a59(s,s,s,B.j1,B.j2,B.a6,s,!1,s,!0,s,"/splashScreen",!0,new A.SX(),s,s,s,!0,!0,s,s,s,s,q),A.a59(s,s,s,B.j1,B.j2,B.a6,s,!1,s,!0,s,r,!0,new A.SY(),s,s,s,!0,!0,s,s,s,s,q)],t.Ey),s)},
 $C:"$3",
 $R:3,
 $S:371}
